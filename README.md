@@ -13,9 +13,8 @@
 - 龚强/男/1993.3.12
 - 本科/江苏大学计算机系(2009~2013)
 - 工作年限：3年
-- 技术博客：[http://gongvirgil.github.io/](http://gongvirgil.github.io/)
-- Github：https://github.com/gongvirgil
-
+- 技术博客：[http://gongvirgil.github.io](http://gongvirgil.github.io)
+- Github：[https://github.com/gongvirgil](https://github.com/gongvirgil)
 - 期望职位：PHP程序员
 - 期望薪资：税前月薪15k~20k
 - 期望城市：北京
@@ -24,7 +23,7 @@
 
 # 技能清单
 
-熟练使用的技能
+> 熟练使用的技能
 
 - Web开发：HTML+CSS+Javascript+Ajax & Linux/Nginx+Apache+MySQL+PHP (精通 使用3年以上)
 - Web框架：jQuery/ThinkPHP/MVC模式/CMS/Discuz （精通 使用2年以上）
@@ -32,7 +31,7 @@
 - 版本管理、自动化部署工具：Svn/Git （熟练 使用1年以上）
 - 编辑器：Sublime Text 3
 
-了解&使用过的技能
+> 了解&使用过的技能
 
 - HTML5/CSS3/React/Nodejs
 - MemCache/Redis/MongoDB/Laravel 5
