@@ -101,7 +101,8 @@
 
 # 开源项目和作品
 
-项目|说明|演示|---|---
+项目|说明|演示
+---|---|---
 [profile-page][P1]|响应式自适应个人主页|[演示][S1]
 [gongvirgil.github.io][P2]|使用Jekyll+Github Page搭建的博客|[演示][S2]
 [bootstrap-admin][P3]|Bootstrap风格后台管理系统|[演示][S3]
