@@ -1,4 +1,4 @@
-# 龚强/PHP程序员/简历 [![](./images/download-pdf-green.svg)][D1]
+# 龚强/PHP程序员/简历 [![](https://img.shields.io/badge/download-pdf-green.svg)][D1]
 
 # 联系方式
 
