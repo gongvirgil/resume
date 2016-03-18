@@ -1,4 +1,4 @@
-# 龚强/PHP程序员/简历 [![](https://img.shields.io/badge/download-pdf-green.svg)][D1]
+# 龚强/PHP程序员/简历 [![](./images/download-pdf-green.svg)][D1]
 
 # 联系方式
 
@@ -78,19 +78,6 @@
 	- 在线充值渠道对接
 	- 与手游APP钱包接口对接交互
 
-- ### 手机端自适应后台
-
-	<img src="./images/profile-pic-wap.jpg" height="200" title="多端响应式自适应后台" alt="多端响应式自适应后台.jpg" align="center" />
-
-	简述：PC端和手机端自适应的简易后台，便于在手机上处理业务，主要使用Bootstrap框架搭建前台模板
-
-- ### Linux下服务器自动补单功能 
-
-	- Linux下的Crontab定时任务配置
-	- ThinkPHP开发后台补单API
-
-	简述：针对充值业务偶然出现的掉单现象，开发的自动补单功能
-
 - ### Bootstrap风格系统管理后台
 
 	<img src="./images/profile-pic-admin.jpg" height="200" title="Bootstrap风格系统管理后台" alt="Bootstrap风格系统管理后台.jpg" align="center" />
@@ -103,6 +90,18 @@
 	- 使用Widget扩展代替传统的iframe结构布局
 	- 基于角色访问控制的权限管理系统(RBAC)
 
+- ### 手机端自适应后台
+
+	<img src="./images/profile-pic-wap.jpg" height="200" title="多端响应式自适应后台" alt="多端响应式自适应后台.jpg" align="center" />
+
+	简述：PC端和手机端自适应的简易后台，便于在手机上处理业务，主要使用Bootstrap框架搭建前台模板
+
+- ### Linux下服务器自动补单功能 
+
+	- Linux下的Crontab定时任务配置
+	- ThinkPHP开发后台补单API
+
+	简述：针对充值业务偶然出现的掉单现象，开发的自动补单功能
 
 # 开源项目和作品
 
