@@ -116,7 +116,7 @@
 
 感谢您花时间阅读我的简历，期待能有机会和您共事。
 
-[D1]: https://github.com/gongvirgil/resume/GongQiang_PHPer_Resume.pdf "PDF简历下载"
+[D1]: https://gongvirgil.github.io/resume/GongQiang_PHPer_Resume.pdf "PDF简历下载"
 
 [P1]: https://github.com/gongvirgil/profile "profile"
 [P2]: https://github.com/gongvirgil/gongvirgil.github.io "gongvirgil.github.io"
