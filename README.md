@@ -1,5 +1,7 @@
 # 龚强/PHP程序员/简历 [![](https://img.shields.io/badge/download-pdf-green.svg)][D1]
 
+> 在线简历：[http://gongvirgil.github.io/resume/](http://gongvirgil.github.io/resume/)
+
 # 联系方式
 
 - 手机：15262900637
@@ -15,7 +17,7 @@
 - 技术博客：[http://gongvirgil.github.io](http://gongvirgil.github.io)
 - Github：[https://github.com/gongvirgil](https://github.com/gongvirgil)
 - 期望职位：PHP程序员
-- 期望薪资：15k
+- 期望薪资：12k
 - 期望城市：北京
 
 
