@@ -11,7 +11,7 @@
 - 技术博客：[http://gongvirgil.github.io](http://gongvirgil.github.io)
 - Github：[https://github.com/gongvirgil](https://github.com/gongvirgil)
 - 期望职位：PHP程序员
-- 期望薪资：21~23k
+- 期望薪资：23~28k
 - 期望城市：北京
 
 
