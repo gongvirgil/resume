@@ -1,4 +1,4 @@
-# 龚强/PHP程序员/简历 [![](https://img.shields.io/badge/download-pdf-green.svg)][D1]
+# 龚强/PHP程序员/简历
 
 > 在线简历：[http://gongvirgil.github.io/resume/](http://gongvirgil.github.io/resume/)
 
@@ -98,16 +98,6 @@
 	- 使用Widget扩展代替传统的iframe结构布局
 	- 基于角色访问控制的权限管理系统(RBAC)
 	- PC端和手机端自适应，便于处理业务
-
-
-# 开源项目和作品
-
-项目|说明|演示
----|---|---
-[profile-page][P1]|响应式自适应个人主页|[演示][S1]
-[gongvirgil.github.io][P2]|使用Jekyll+Github Page搭建的博客|[演示][S2]
-[bootstrap-admin][P3]|Bootstrap风格后台管理系统|[演示][S3]
-
 
 # 致谢 
 
